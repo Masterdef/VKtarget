@@ -1,8 +1,9 @@
 ##How to use
 
-user: admin Moscow10
+user: https://vk.com/id889299954
+
 
 ##Requirements
 
 * requests
-* django .10
+* django .
